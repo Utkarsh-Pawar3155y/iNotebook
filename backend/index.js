@@ -1,5 +1,5 @@
+require('dotenv').config();
 const connectToMongo = require('./db');
-
 const express = require('express');
 
 connectToMongo();
