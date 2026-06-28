@@ -5,7 +5,7 @@ const NoteState = (props) => {
 
     const initialNotes = [
         {
-            "_id": "6a3980b292670d072b0cf7c9",
+            "_id": "6a3980b292670d0fs72b0cf7c9",
             "user": "6a2ecb5b54dbd99a97c539ee",
             "title": "Morning ",
             "description": "Get up early morning updated",
@@ -14,12 +14,53 @@ const NoteState = (props) => {
             "__v": 0
         },
         {
-            "_id": "6a3e631b8f59fc4a0d3dc40c",
+            "_id": "6a3e631b8f5559fc4a0d3dc40c",
             "user": "6a2ecb5b54dbd99a97c539ee",
             "title": "Evening",
             "description": "Do homework",
             "tag": "personal",
             "date": "2026-06-26T11:31:39.419Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a394480b292670d072b0cf7c9",
+            "user": "6a2ecb5b54dbd99a97c539ee",
+            "title": "Morning ",
+            "description": "Get up early morning updated",
+            "tag": "personal",
+            "date": "2026-06-22T18:36:34.707Z",
+            "__v": 0
+        },{
+            "_id": "6a3980b29267330d072b0cf7c9",
+            "user": "6a2ecb5b54dbd99a97c539ee",
+            "title": "Morning ",
+            "description": "Get up early morning updated",
+            "tag": "personal",
+            "date": "2026-06-22T18:36:34.707Z",
+            "__v": 0
+        },{
+            "_id": "6a3980b292670d01272b0cf7c9",
+            "user": "6a2ecb5b54dbd99a97c539ee",
+            "title": "Morning ",
+            "description": "Get up early morning updated",
+            "tag": "personal",
+            "date": "2026-06-22T18:36:34.707Z",
+            "__v": 0
+        },{
+            "_id": "6a3980b292670d072b210cf7c9",
+            "user": "6a2ecb5b54dbd99a97c539ee",
+            "title": "Morning ",
+            "description": "Get up early morning updated",
+            "tag": "personal",
+            "date": "2026-06-22T18:36:34.707Z",
+            "__v": 0
+        },{
+            "_id": "6a3980b29212670d072b0cf7c9",
+            "user": "6a2ecb5b54dbd99a97c539ee",
+            "title": "Morning ",
+            "description": "Get up early morning updated",
+            "tag": "personal",
+            "date": "2026-06-22T18:36:34.707Z",
             "__v": 0
         }
     ]
